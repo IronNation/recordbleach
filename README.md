@@ -18,6 +18,7 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 - PostgreSQL database
 - Doorkeeper Oauth for authorization
 - SMTP mail 
+
 ### Deployment: 
 - Heroku
 - TravisCI for testing and integration 
