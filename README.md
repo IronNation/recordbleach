@@ -9,6 +9,7 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 - Backbone.js handles the models and controller and React.js renders the data as a single page app. 
 - The logic is designed with Flux architecture with a store and actions module that creates uni-directional data flow.  
 - Transpiling is handled with Browserify and Node.js handles the HTTP calls to the RESTful API. 
+- Google Fonts
 
 ### Back end: 
 - Ruby on Rails
@@ -27,3 +28,4 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 - Caitlin Flattery, TIY Houston, JS Cohort May 2016
 -  Sarah Swift, TIY Houston, Rails Cohort May 2016
 -  Connor Clifton, TIY Houston, JS Cohort September 2016
+# Screenshots
