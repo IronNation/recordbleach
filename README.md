@@ -25,6 +25,6 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 # Innovation
 
 ## Team
-### Caitlin Flattery, TIY Houston, JS Cohort May 2016
-### Sarah Swift, TIY Houston, Rails Cohort May 2016
-### Connor Clifton, TIY Houston, JS Cohort September 2016
+- Caitlin Flattery, TIY Houston, JS Cohort May 2016
+-  Sarah Swift, TIY Houston, Rails Cohort May 2016
+-  Connor Clifton, TIY Houston, JS Cohort September 2016
