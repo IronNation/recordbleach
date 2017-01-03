@@ -7,11 +7,13 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 # Community Impact
 
 # Tech Stack
-Front end: Backbone.js handles the models and controller and React.js renders the data as a single page app. The logic is designed with Flux architecture with a store and actions module that creates uni-directional data flow. Transpiling is handled with Browserify and Node.js handles the HTTP calls to the RESTful API. 
-Back end: Ruby on Rails, PDF generation via WickedPDF, PostgreSQL database, Doorkeeper Oauth for authorization, SMTP mail 
-Deployment: Heroku, TravisCI for testing and integration 
+###Front end: Backbone.js handles the models and controller and React.js renders the data as a single page app. The logic is designed with Flux architecture with a store and actions module that creates uni-directional data flow. Transpiling is handled with Browserify and Node.js handles the HTTP calls to the RESTful API. 
+###Back end: Ruby on Rails, PDF generation via WickedPDF, PostgreSQL database, Doorkeeper Oauth for authorization, SMTP mail 
+###Deployment: Heroku, TravisCI for testing and integration 
 
 # Innovation
 
 ## Team
-
+### Caitlin Flattery, TIY Houston, JS Cohort May 2016
+### Sarah Swift, TIY Houston, Rails Cohort May 2016
+### Connor Clifton, TIY Houston, JS Cohort September 2016
