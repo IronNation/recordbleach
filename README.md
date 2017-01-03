@@ -7,5 +7,11 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 # Community Impact
 
 # Tech Stack
+Front end: React.js app posts data to restful API. 
+Back end: Ruby on Rails, PDF generation via WickedPDF, PostgreSQL database, Doorkeeper Oauth for authorization, SMTP mail 
+Deployment: Heroku, TravisCI for testing and integration 
 
 # Innovation
+
+## Team
+
