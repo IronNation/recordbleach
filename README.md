@@ -4,3 +4,8 @@ The consequences of having convictions on one's record range from informing law 
 
 Enter, Record Bleach! Record Bleach is a full stack platform (react on the front end, rails API on the back end) , that generates the Petition for Expunction and the necessary orders. The app also informs users how to proceed once they have the Petition filled out.
 
+# Community Impact
+
+# Tech Stack
+
+# Innovation
