@@ -21,6 +21,7 @@ Enter, Record Bleach! Record Bleach is a full stack platform (react on the front
 ### Deployment: 
 - Heroku
 - TravisCI for testing and integration 
+- include link to deployment
 
 # Innovation
 
